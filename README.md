@@ -20,3 +20,14 @@
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 
+- dbeaver
+![alt text](image-10.png)
+
+- resolvendo falha na conexão
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+- erro (triste) no minio
+![alt text](image-13.png)
+- não estou conseguindo resolver o erro no minio
+![alt text](image-14.png)
