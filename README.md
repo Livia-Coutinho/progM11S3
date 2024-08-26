@@ -44,6 +44,19 @@
 - criação .env
 ![alt text](image-19.png)
 
+-
+-
+-
+
 - client clickhouse
 ![alt text](image-20.png)
+
+- data processing
+![alt text](image-21.png)
+
+- minio_client
+![alt text](image-22.png)
+
+- servidor app.py
+![alt text](image-23.png)
 
