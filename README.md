@@ -31,3 +31,19 @@
 ![alt text](image-13.png)
 - não estou conseguindo resolver o erro no minio
 ![alt text](image-14.png)
+
+- test-minio.py rodou!!!
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+-sql 
+![alt text](image-18.png)
+
+
+- criação .env
+![alt text](image-19.png)
+
+- client clickhouse
+![alt text](image-20.png)
+

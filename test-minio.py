@@ -9,7 +9,7 @@ def test_minio():
         secure=False
     )
 
-    bucket_name = "test_bucket"
+    bucket_name = "test-bucket"
     object_name = "test.txt"
     file_content = "Este é um arquivo teste"
 
